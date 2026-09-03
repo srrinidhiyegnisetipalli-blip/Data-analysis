@@ -6,6 +6,7 @@ This project analyses customer shopping behaviour using Excel, SQL and Power BI 
 
 The dataset contains 3,900 customer records across product, demographic, subscription, shipping, discount, payment and purchase-frequency attributes.
 
+
 Business Objective
 
 The analysis focuses on answering practical retail questions such as:
@@ -21,6 +22,8 @@ How do discounts, shipping methods and purchase frequency relate to customer spe
 Which products and locations contribute the most revenue?
 
 What customer groups should the business prioritise for retention and promotional activity?
+
+
 
 Tools Used
 
@@ -128,6 +131,8 @@ The full query file is available in:
 
 customer_shopping_behavior_analysis.sql
 
+
+
 Key Findings
 
 Clothing was the highest-revenue category, generating approximately $104,264 from 1,737 customers.
@@ -146,6 +151,8 @@ The Every 3 Months purchase-frequency group generated the most revenue among fre
 
 Fall recorded the highest seasonal revenue at approximately $60,018.
 
+
+
 Business Recommendations
 
 Prioritise high-performing categories
@@ -163,6 +170,8 @@ Compare customer spend and repeat-purchase behaviour between discounted and non-
 Use category and seasonal patterns for campaign planning
 Align merchandising and marketing activity with the strongest categories and seasonal demand patterns.
 
+
+
 Power BI Dashboard
 
 The Power BI dashboard presents the major KPIs and customer behaviour patterns visually, including:
@@ -179,9 +188,6 @@ Purchase-frequency analysis
 
 Shipping and promotional patterns
 
-Add your dashboard screenshot here:
-
-![Power BI Dashboard](dashboard.png)
 
 Repository Structure
 
